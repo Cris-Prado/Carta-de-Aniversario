@@ -21,7 +21,7 @@ main{
 h2 {
     position: relative;
     font-size: 1rem;
-    top: -200px;
+    top: -25%;
     text-align: center;
     width: 100%;
     display: flex;
